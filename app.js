@@ -3,7 +3,6 @@ function pesquisar() {
     let section = document.getElementById("resultados-pesquisa");
   
     let campoPesquisa = document.getElementById("campo-pesquisa").value
-    console.log(campoPesquisa) 
 
     // se campoPesquisa for uma string vazia, não mostrar resultados
     if(campoPesquisa == "") { 
@@ -19,7 +18,7 @@ function pesquisar() {
     let descricao = "";
     let tags = "";
     
-      // Informa sobre cada dado da lista de dados
+      // Itera sobre cada dado da lista de dados
     for (let dado of dados) {
       titulo = dado.titulo.toLowerCase()
       descricao = dado.descricao.toLowerCase()
@@ -33,6 +32,7 @@ function pesquisar() {
       // Cria um novo elemento HTML para cada resultado
         resultados += `
         <div class="item-resultado">
+        <img src="${dado.Imagem}" alt="Capa do livro ${dado.Imagem}" style="width:150px; height:auto;"> 
           <h2>
             <a href="#" target="_blank">${dado.titulo}</a>
           </h2>
