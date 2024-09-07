@@ -1,4 +1,4 @@
-## Mágico Mundo da Leitura: Uma Jornada Encantada pela Leitura! ✨##
+## Mágico Mundo da Leitura: Uma Jornada Encantada pela Leitura! ✨ ##
 
 Imagine um portal mágico que te transporta para um universo onde as palavras ganham vida e a imaginação não tem limites. 
 Este é o Mágico Mundo da Leitura, um site que te convida a embarcar em uma aventura literária inesquecível!
