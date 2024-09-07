@@ -29,6 +29,7 @@ Crianças: Que querem se divertir aprendendo e desenvolvendo a sua imaginação.
 Adultos: Que desejam aprimorar suas habilidades de leitura e expandir seus conhecimentos.
 
 Não perca tempo! Entre no Mágico Mundo da Leitura e comece a sua jornada literária agora mesmo! ✨
+
 Palavras-chave: leitura, crianças, educação, idiomas, família, divertido, mágico, portal, aventura literária, conhecimento, imaginação.
 
 **Comece agora sua aventura literária!**
